@@ -6,13 +6,13 @@ Please read this policy carefully to understand our policies and practices regar
 
 # What does it store?
 
-Server IDs for server data (prefixes, settings, autorole, welcome, logging, vcrole, antinuke).
+Server IDs for server data 
 
-User IDs to keep a record of afk, warn, mute.
+User IDs to keep a record of afk.
 
-Few parts of message content for logging system.
+Few parts of message content for prefix system
 
-Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Flantic's users.
+Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all winkle's users.
 
 The information we collect when you vote for Flantic on the third-party website Discord bot list
 
