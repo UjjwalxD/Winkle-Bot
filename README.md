@@ -1,2 +1,2 @@
 # winkle
-Winkle is a music bot with many features.
+Winkle is a bot with many features.
